@@ -1,0 +1,1 @@
+/usr/bin/gcc -g "CMakeFiles/hash-map.dir/main.c.o" -o hash-map 

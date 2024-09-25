@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/adskiyponchik/ForMe/programming/Projects/Cpp/C/Hash-map/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/hash-map.dir/main.c.o -c /home/adskiyponchik/ForMe/programming/Projects/Cpp/C/Hash-map/main.c",
+  "file": "/home/adskiyponchik/ForMe/programming/Projects/Cpp/C/Hash-map/main.c",
+  "output": "CMakeFiles/hash-map.dir/main.c.o"
+}
+]
